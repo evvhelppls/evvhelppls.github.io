@@ -11,3 +11,4 @@
 ![image](https://github.com/user-attachments/assets/e8232c6c-8c05-4bb1-814c-17f04d00b6a6)
 
 
+[типа число пи](PI.md)
