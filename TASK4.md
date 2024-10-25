@@ -24,7 +24,8 @@
 
 ## 3.
 
-![image](https://github.com/user-attachments/assets/7f249ed6-84fa-4160-8e6e-60d714fb59cc)
+![image](![2024-10-25_13-56-29](https://github.com/user-attachments/assets/950e68c3-0b58-429e-a631-5bb3112e570a)
+)
 
 ## 4.
 
