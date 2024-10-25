@@ -1,6 +1,6 @@
 [задание по маркдаун](ABOUT_md.md)
 
-[задание по html](about_html.html)
+[задание по html](about_html.md)
 
 [морской бой](battleship.html)
 
